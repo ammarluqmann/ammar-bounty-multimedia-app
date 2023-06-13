@@ -1,4 +1,5 @@
 1. Description of the Two Features:
+
 a) Search Bar:
 The search bar feature allows users to search for specific files within the Multimedia Web App. Users can enter keywords in the search bar, and the app will filter the displayed files based on the entered keywords. The search is case-insensitive, meaning it will match files regardless of their letter casing.
 
